@@ -1,0 +1,42 @@
+{
+  "EL SALVADOR": [
+    "ACAJUTLA",
+    "EL AMATILLO",
+    "LA HACHADURA",
+    "OTRA",
+    "SAN BARTOLO"
+  ],
+  "HONDURAS": [
+    "EL AMATILLO",
+    "LA MESA",
+    "PUERTO CORTES"
+  ],
+  "GUATEMALA": [
+    "OTRA",
+    "PEDRO DE ALVARADO",
+    "PUERTO QUETZAL",
+    "SANTO TOMAS DE CASTILLA",
+    "TECUN UMAN"
+  ],
+  "NICARAGUA": [
+    "CORINTO",
+    "EL GUASAULE",
+    "LAS MANOS",
+    "OTRA",
+    "PENAS BLANCAS"
+  ],
+  "COSTA RICA": [
+    "CALDERA",
+    "LIMON",
+    "OTRA",
+    "PASO CANOAS",
+    "PENAS BLANCAS"
+  ],
+  "PANAMA": [
+    "BALBOA",
+    "COLON",
+    "CRISTOBAL",
+    "OTRA",
+    "PASO CANOAS"
+  ]
+}

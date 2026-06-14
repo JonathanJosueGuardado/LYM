@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "ESTANDAR",
+    "valor_usd": 1.0,
+    "tipo": "USD"
+  },
+  {
+    "nombre": "PREFERENCIAL",
+    "valor_usd": 0.8,
+    "tipo": "USD"
+  },
+  {
+    "nombre": "PREMIUM",
+    "valor_usd": 1.2,
+    "tipo": "USD"
+  }
+]

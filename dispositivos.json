@@ -1,0 +1,24 @@
+[
+  {
+    "usuario": "ADMIN",
+    "estado": "ACTIVO",
+    "fecha_creacion": "2026-06-05T22:35:20",
+    "uuid": "00000000-0000-0000-0000-00090ffe0001",
+    "computer_name": "HNGLCPOLVBUYEXJG",
+    "os_name": "Windows",
+    "os_version": "10",
+    "machine": "AMD64",
+    "device_key": "82f25e731bb4162f9d134777f5375c54"
+  },
+  {
+    "usuario": "JGUARDADO",
+    "estado": "ACTIVO",
+    "fecha_creacion": "2026-06-06T06:59:33",
+    "uuid": "00000000-0000-0000-0000-00090ffe0001",
+    "computer_name": "HNGLCPOLVBUYEXJG",
+    "os_name": "Windows",
+    "os_version": "10",
+    "machine": "AMD64",
+    "device_key": "82f25e731bb4162f9d134777f5375c54"
+  }
+]

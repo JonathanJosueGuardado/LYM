@@ -1,0 +1,64 @@
+[
+  {
+    "usuario": "ADMIN",
+    "password_hash": "bfde1ace5dca9ff0536272f4314039bfe1b4f5d6c86d7998024566339de684dd",
+    "salt": "0e8de0258232ba5e9090e387d6ffe9aa",
+    "rol": "ADMIN",
+    "activo": true,
+    "device_key": "",
+    "device": {
+      "uuid": "00000000-0000-0000-0000-00090ffe0001",
+      "computer_name": "HNGLCPOLVBUYEXJG",
+      "os_name": "Windows",
+      "os_version": "10",
+      "machine": "AMD64",
+      "device_key": "82f25e731bb4162f9d134777f5375c54"
+    },
+    "permissions": {
+      "view_all": true,
+      "view_costs": true,
+      "create_purchase": true,
+      "update_stage": true,
+      "add_costs": true,
+      "mark_available": true,
+      "mark_sale": true,
+      "generate_reports": true,
+      "config": true,
+      "edit_critical": true,
+      "delete_cancel": true
+    },
+    "fecha_creacion": "2026-06-05T22:35:20",
+    "fecha_actualizacion": "2026-06-05T22:35:20"
+  },
+  {
+    "usuario": "JGUARDADO",
+    "password_hash": "437d85e878d14e8703d1e1d6c8fb1c733e20d1df5d6efa0c5e2c43f3fd2cf62d",
+    "salt": "818492a6871df007b7474b5f79cfcc72",
+    "rol": "SUPERVISOR",
+    "activo": true,
+    "device_key": "82f25e731bb4162f9d134777f5375c54",
+    "device": {
+      "uuid": "00000000-0000-0000-0000-00090ffe0001",
+      "computer_name": "HNGLCPOLVBUYEXJG",
+      "os_name": "Windows",
+      "os_version": "10",
+      "machine": "AMD64",
+      "device_key": "82f25e731bb4162f9d134777f5375c54"
+    },
+    "permissions": {
+      "view_all": true,
+      "view_costs": true,
+      "create_purchase": true,
+      "update_stage": true,
+      "add_costs": true,
+      "mark_available": true,
+      "mark_sale": true,
+      "generate_reports": true,
+      "config": true,
+      "edit_critical": true,
+      "delete_cancel": true
+    },
+    "fecha_creacion": "2026-06-06T06:59:33",
+    "fecha_actualizacion": "2026-06-06T06:59:33"
+  }
+]
